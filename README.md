@@ -25,3 +25,5 @@ There will be four main parts in the project:
       - Light GBM
  
 Our goal for the project is not to predict the weekly sales reaching the most accurate in the world (sure that we will try our best to get as much accurate as we can), but to utilize our knowledges of data science so far and current sensitivity of data, and implement any learned methods on data. The project is expected to be complete and logical but not to be perfect and unbeatable.   
+
+## Data Introduction
